@@ -1,6 +1,6 @@
 'use strict';
 // Cuando cambies cualquier archivo de la app, sube este número para que el celular descargue la versión nueva.
-const VERSION = 'vence-v2';
+const VERSION = 'vence-v3';
 const PREFIX = 'vence-';
 const FILES = ['./', 'index.html', 'app.js', 'styles.css', 'manifest.webmanifest', 'icon.svg', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
 
